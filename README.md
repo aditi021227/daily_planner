@@ -59,16 +59,17 @@ open index.html in your browser
 
 ---
 💡 Future Improvements
-⏰ Task reminders or deadlines
 
-📱 Dark mode toggle
-
-🔄 Sync with cloud or login feature
+-⏰ Task reminders or deadlines
+-📱 Dark mode toggle
+-🔄 Sync with cloud or login feature
 
 🙋‍♀️ Author
-Made with ❤️ by Aditi Malik
-GitHub: @aditi021227
+
+-Made with ❤️ by Aditi Malik
+-GitHub: @aditi021227
 
 📃 License
-This project is open-source and free to use under the MIT License.
+
+-This project is open-source and free to use under the MIT License.
 
