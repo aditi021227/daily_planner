@@ -58,18 +58,18 @@ open index.html in your browser
 ```
 
 ---
-💡 Future Improvements
+##💡 Future Improvements
 
 -⏰ Task reminders or deadlines
 -📱 Dark mode toggle
 -🔄 Sync with cloud or login feature
 
-🙋‍♀️ Author
+##🙋‍♀️ Author
 
 -Made with ❤️ by Aditi Malik
 -GitHub: @aditi021227
 
-📃 License
+##📃 License
 
 -This project is open-source and free to use under the MIT License.
 
